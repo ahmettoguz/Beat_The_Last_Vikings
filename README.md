@@ -46,5 +46,3 @@ As you know many games uses stamina to travel or generate action. This stamina i
 ## Contributors
 
 <a href="https://github.com/ahmettoguz" target="_blank"><img width=50 height=50 src="https://avatars.githubusercontent.com/u/101711642?v=4"></a>
-
-**The project idea belongs to Muhammet Karekök.**
