@@ -1,7 +1,7 @@
 <h1 align="center">Beat The Last Viking Games</h1> <br>
 
 <div align="center">
-    <img width=150 src="/assets/images/icon/favico.png">
+    <img width=150 src="/assets/icon/favicon.ico">
 </div>
 
 <br/>
