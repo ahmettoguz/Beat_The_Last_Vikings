@@ -38,8 +38,7 @@ As you know many games uses stamina to travel or generate action. This stamina i
 
 ## Features
 
-* Multiple web app reports can be displayed on the same chart.
-* Total track datas are compiled and presented as summary.
+* No need to waste time to get resources. Everything is done automatically.
 
 <br/>
 
